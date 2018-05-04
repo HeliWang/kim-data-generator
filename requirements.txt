@@ -1,0 +1,6 @@
+Flask==0.12.2
+tqdm==4.19.5
+six==1.10.0
+numpy==1.14.0
+torch==0.3.0b0+591e73e
+torchtext==0.2.1
